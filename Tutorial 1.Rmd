@@ -10,9 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
 ```
 
-## R Markdown
-## CTR + ALT + I creates a new R coding section
-
 ##Question 1.1.
 
 ```{r}
